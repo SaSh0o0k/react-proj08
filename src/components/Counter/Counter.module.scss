@@ -1,0 +1,16 @@
+body{
+  background-color: #5f779d51;
+}
+
+.counterContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  margin-top: 2rem;
+
+  h1 {
+    margin: 0;
+  }
+}
